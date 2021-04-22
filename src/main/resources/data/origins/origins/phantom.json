@@ -1,0 +1,16 @@
+{
+  "loading_priority": 1,
+  "powers": [
+    "origins:phantomize",
+    "bonusorigins:transparency",
+    "origins:phasing",
+    "bonusorigins:burn_in_sunlight",
+    "origins:light_armor",
+    "origins:fragile"
+  ],
+  "icon": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "order": 2,
+  "impact": 3
+}
