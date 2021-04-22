@@ -2,7 +2,10 @@
   "loading_priority": 1,
   "powers": [
     "bonusorigins:potion_drink",
-    "bonusorigins:potion_throw"
+    "bonusorigins:potion_throw",
+    "origins:no_shield",
+    "bonusorigins:frail",
+    "bonusorigins:weak"
   ],
   "icon": {
     "item": "minecraft:potion"
