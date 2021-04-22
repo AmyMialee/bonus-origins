@@ -1,0 +1,12 @@
+{
+  "loading_priority": 1,
+  "powers": [
+    "bonusorigins:potion_drink",
+    "bonusorigins:potion_throw"
+  ],
+  "icon": {
+    "item": "minecraft:potion"
+  },
+  "order": 2,
+  "impact": 3
+}

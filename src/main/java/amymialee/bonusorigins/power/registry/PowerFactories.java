@@ -3,6 +3,9 @@ package amymialee.bonusorigins.power.registry;
 import amymialee.bonusorigins.BonusOrigins;
 import amymialee.bonusorigins.power.IgnitePower;
 import io.github.apace100.origins.power.Active;
+import io.github.apace100.origins.power.Power;
+import io.github.apace100.origins.power.PowerType;
+import io.github.apace100.origins.power.PowerTypeReference;
 import io.github.apace100.origins.power.factory.PowerFactory;
 import io.github.apace100.origins.registry.ModRegistries;
 import io.github.apace100.origins.util.HudRender;
@@ -13,6 +16,9 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class PowerFactories {
+    public static final PowerType<Power> POTION_DRINK = new PowerTypeReference(new Identifier(BonusOrigins.MODID, "potion_drink"));
+    public static final PowerType<Power> POTION_THROW = new PowerTypeReference(new Identifier(BonusOrigins.MODID, "potion_throw"));
+
     public static void register() {
         register(new PowerFactory<>(new Identifier(BonusOrigins.MODID, "ignite"),
                 new SerializableData()

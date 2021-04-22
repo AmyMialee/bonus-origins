@@ -4,6 +4,8 @@
   "package": "amymialee.bonusorigins.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "PotionItemMixin",
+    "ThrowablePotionItemMixin"
   ],
   "client": [
   ],
