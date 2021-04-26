@@ -3,13 +3,12 @@
   "powers": [
     "bonusorigins:potion_drink",
     "bonusorigins:potion_throw",
-    "origins:no_shield",
-    "bonusorigins:frail",
-    "bonusorigins:weak"
+    "bonusorigins:heavy_shield",
+    "bonusorigins:frail"
   ],
   "icon": {
     "item": "minecraft:potion"
   },
   "order": 2,
-  "impact": 3
+  "impact": 1
 }

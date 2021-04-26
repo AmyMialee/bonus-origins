@@ -1,4 +1,4 @@
-package amymialee.bonusorigins.power.registry;
+package amymialee.bonusorigins.power;
 
 import amymialee.bonusorigins.BonusOrigins;
 import amymialee.bonusorigins.power.IgnitePower;

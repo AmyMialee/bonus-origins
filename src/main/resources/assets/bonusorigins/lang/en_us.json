@@ -1,0 +1,28 @@
+{
+  "origin.bonusorigins.witch.name": "Witch",
+  "origin.bonusorigins.witch.description": "Top tier alchemists, with impressive brewing abilities.",
+
+  "power.bonusorigins.potion_drink.name": "Altered Metabolism",
+  "power.bonusorigins.potion_drink.description": "The effects of consumed potions is amplified.",
+
+  "power.bonusorigins.potion_throw.name": "Efficient Dosage",
+  "power.bonusorigins.potion_throw.description": "You can get much more out of your thrown potions.",
+
+  "power.bonusorigins.heavy_shield.name": "Cumbersome",
+  "power.bonusorigins.heavy_shield.description": "You find shields too heavy and awkward to use.",
+
+  "power.bonusorigins.frail.name": "Frail",
+  "power.bonusorigins.frail.description": "You have 2 less hearts of health than humans.",
+
+  "power.bonusorigins.ignite.name": "Ignite",
+  "power.bonusorigins.ignite.description": "You can ignite yourself, providing increased damage and a gentle decent.",
+
+  "power.bonusorigins.weak_armour.name": "Non-solid body",
+  "power.bonusorigins.weak_armour.description": "You cannot wear armour that is too heavy, as it interferes with your incorporable form.",
+
+  "power.bonusorigins.burn_in_sunlight.name": "Photoallergic",
+  "power.bonusorigins.burn_in_sunlight.description": "You begin to burn in daylight if you are not invisible.",
+
+  "power.bonusorigins.transparent.name": "Translucent",
+  "power.bonusorigins.transparent.description": "While phantomized, your skin is translucent."
+}

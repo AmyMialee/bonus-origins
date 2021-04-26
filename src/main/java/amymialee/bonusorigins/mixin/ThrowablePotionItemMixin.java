@@ -1,7 +1,6 @@
 package amymialee.bonusorigins.mixin;
 
-import amymialee.bonusorigins.power.registry.PowerFactories;
-import io.github.apace100.origins.component.OriginComponent;
+import amymialee.bonusorigins.power.PowerFactories;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
@@ -12,7 +11,6 @@ import net.minecraft.world.World;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
-import org.spongepowered.asm.mixin.injection.Redirect;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 import org.spongepowered.asm.mixin.injection.callback.LocalCapture;
 

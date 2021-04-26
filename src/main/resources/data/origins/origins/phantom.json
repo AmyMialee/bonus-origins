@@ -5,8 +5,7 @@
     "origins:phasing",
     "bonusorigins:burn_in_sunlight",
     "origins:fragile",
-    "bonusorigins:transparent",
-    "bonusorigins:weak_armour"
+    "bonusorigins:transparent"
   ],
   "icon": {
     "item": "minecraft:phantom_membrane"

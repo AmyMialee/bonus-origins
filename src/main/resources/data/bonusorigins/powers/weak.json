@@ -1,8 +1,0 @@
-{
-  "type": "origins:modify_damage_dealt",
-  "modifier": {
-    "name": "Less base melee damage",
-    "value": -1,
-    "operation": "addition"
-  }
-}

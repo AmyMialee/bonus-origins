@@ -1,6 +1,6 @@
 package amymialee.bonusorigins;
 
-import amymialee.bonusorigins.power.registry.PowerFactories;
+import amymialee.bonusorigins.power.PowerFactories;
 import net.fabricmc.api.ModInitializer;
 
 public class BonusOrigins implements ModInitializer {
