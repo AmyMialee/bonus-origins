@@ -1,0 +1,6 @@
+{
+  "type": "origins:effect_immunity",
+  "effects": [
+    "the_bumblezone:wrath_of_the_hive"
+  ]
+}

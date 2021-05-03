@@ -24,5 +24,8 @@
   "power.bonusorigins.burn_in_sunlight.description": "You begin to burn in daylight if you are not invisible.",
 
   "power.bonusorigins.transparent.name": "Translucent",
-  "power.bonusorigins.transparent.description": "While phantomized, your skin is translucent."
+  "power.bonusorigins.transparent.description": "While phantomized, your skin is translucent.",
+
+  "power.bonusorigins.hivemind.name": "Member of the Hive",
+  "power.bonusorigins.hivemind.description": "You will not anger bees while in the bumblezone."
 }

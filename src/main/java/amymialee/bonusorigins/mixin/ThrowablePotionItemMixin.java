@@ -20,8 +20,8 @@ public class ThrowablePotionItemMixin {
     public void throwPotion(World world, PlayerEntity user, Hand hand, CallbackInfoReturnable<TypedActionResult<ItemStack>> cir, ItemStack itemStack) {
         if (PowerFactories.POTION_THROW.isActive(user)) {
             itemStack.increment(1);
-            user.getItemCooldownManager().set(Items.SPLASH_POTION, 20);
-            user.getItemCooldownManager().set(Items.LINGERING_POTION, 20);
+            user.getItemCooldownManager().set(Items.SPLASH_POTION, 40);
+            user.getItemCooldownManager().set(Items.LINGERING_POTION, 40);
         }
     }
 }
