@@ -1,13 +1,12 @@
 {
   "loading_priority": 1,
   "powers": [
-    "bonusorigins:hivemind",
     "moborigins:stinger",
-    "moborigins:flower_power",
     "moborigins:queen_bee",
     "moborigins:small_bug",
     "moborigins:bee_wings",
-    "origins:vegetarian"
+    "bonusorigins:pollen",
+    "bonusorigins:hivemind"
   ],
   "icon": "minecraft:honeycomb",
   "order": 4,
