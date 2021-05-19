@@ -7,8 +7,6 @@
     "PotionItemMixin",
     "ThrowablePotionItemMixin"
   ],
-  "client": [
-  ],
   "injectors": {
     "defaultRequire": 1
   }

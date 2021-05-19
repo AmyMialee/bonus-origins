@@ -12,9 +12,6 @@
   "icon": "assets/bonus-origins/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "amymialee.bonusorigins.client.BonusOriginsClient"
-    ],
     "main": [
       "amymialee.bonusorigins.BonusOrigins"
     ]

@@ -27,5 +27,8 @@
   "power.bonusorigins.transparent.description": "While phantomized, your skin is translucent.",
 
   "power.bonusorigins.hivemind.name": "Member of the Hive",
-  "power.bonusorigins.hivemind.description": "You will not anger bees while in the bumblezone."
+  "power.bonusorigins.hivemind.description": "You will not anger bees while in the bumblezone.",
+
+  "power.bonusorigins.throw_ender_pearl_secondary.name": "Teleportation",
+  "power.bonusorigins.throw_ender_pearl_secondary.description": "Whenever you want, you may throw an ender pearl which deals no damage, allowing you to teleport."
 }
