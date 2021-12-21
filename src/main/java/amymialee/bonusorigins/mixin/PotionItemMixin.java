@@ -19,7 +19,6 @@ public class PotionItemMixin {
                     1, true, false, false));
             return livingEntity.addStatusEffect(new StatusEffectInstance(effect.getEffectType(), effect.getDuration() * 8,
                     ((effect.getAmplifier() + 1) * 2) - 1, effect.isAmbient(), effect.shouldShowParticles(), effect.shouldShowIcon()));
-
         } else {
             return livingEntity.addStatusEffect(effect);
         }

@@ -1,11 +1,11 @@
 {
   "type": "bonusorigins:ignite",
-  "cooldown": 400,
+  "cooldown": 200,
   "hud_render": {
     "bar_index": 7
   },
   "sound": "minecraft:item.firecharge.use",
-  "length": 100,
+  "length": 160,
   "key": {
     "key": "key.origins.primary_active",
     "continuous": true

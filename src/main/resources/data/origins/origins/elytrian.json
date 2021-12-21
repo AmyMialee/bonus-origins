@@ -5,7 +5,6 @@
 		"origins:shoot_into_air",
 		"origins:aerial_combatant",
 		"origins:light_armor",
-		"bonusorigins:frail",
 		"origins:more_kinetic_damage"
 	],
 	"icon": {
